@@ -4,81 +4,9 @@ https://keybase.io/dmtucker
 
 I hereby claim:
 
-  * I am an admin of http://david.tucker.name
+  * I am an admin of https://davidtucker.name
   * I am dmtucker (https://keybase.io/dmtucker) on keybase.
-  * I have a public key with fingerprint A3E0 EF6C ECB3 3C34 2AA6  EC7C 5508 153A 6E7F C5FB
-
-To do so, I am signing this object:
-
-{
-    "body": {
-        "key": {
-            "eldest_kid": "01017ae6c59bcba7592e0eb4ffe29c905a80a3d30717328853fc5eeff493e8e8d1cd0a",
-            "fingerprint": "a3e0ef6cecb33c342aa6ec7c5508153a6e7fc5fb",
-            "host": "keybase.io",
-            "key_id": "5508153a6e7fc5fb",
-            "kid": "01017ae6c59bcba7592e0eb4ffe29c905a80a3d30717328853fc5eeff493e8e8d1cd0a",
-            "uid": "c4d88e92db6fada2551c34fa6a359719",
-            "username": "dmtucker"
-        },
-        "service": {
-            "hostname": "david.tucker.name",
-            "protocol": "http:"
-        },
-        "type": "web_service_binding",
-        "version": 1
-    },
-    "ctime": 1495953303,
-    "expire_in": 157680000,
-    "prev": "7e18e970664f5d8d7a93543d976db3764e813dbe7ed544e831f75b1f35e04287",
-    "seqno": 6,
-    "tag": "signature"
-}
-
-which yields the signature:
-
------BEGIN PGP MESSAGE-----
-
-owGtUm1QVFUYXgR0I2BcZoCSRLg7pBEy9+65536sCGgEjDCSEJTCuNyPc+HCsot7
-lw0jShvAJRsMRYGQ0jYsiWnGoVCHdlo3pFCsoWmyRiswcqDBWDZmSJ2suxT/+tn5
-c+Z9zvM853nfed+ICNZog4q10UbLK5fvB12d5TW7k60fNGC8VdyPGRuwarR8IbOI
-FLupWhYxI4YTOEFziBIgyws8R0PWgHDEk5KEDKzA4pBjcA6IAKcJGhgYBgJJgAhJ
-EskCxCBGJAQR57AUTJItFchWa5MtdtWWA6qLRAlI4AEQAGngOAoJtAAhzhAQqAWt
-+ki8Kqy0KgGFGo7nFJQqW1VMLUzL8f6D/z/nrlu2E0iRYRBrEHlK4kTOACGhppY4
-igOQpQk2QFSQzcLVIJUt1tjrhGpkwxpTMBV1yAIKDDbQyQqDc8hi6j+s1GUsBau1
-We1WwWpWnyvt9lpjQG3fXxugv4B4079GJl62iOosVYED2RTZasGMhMoU7HLAmSBZ
-yEIAcJCCofpa2YZMcoABaYrB1RP4BjlUSxoRZWpHNE5RpARFRqQ5FkASiCxNiTyg
-KRIxBBB5RCMRkmoBCImGPCEBiHDSwNBYoLd9FitmpNScXIXqqcgVFs5eZ0NYY1jr
-KhCiCdJq1sckhrgm581zg2lk8pm5l1b2L3RVYPk0YQ+tXUHKPl2r6R/4yz/zSMsF
-4ujtibb4675Qw/RN3u2qfjzj2QMzx/3jU4qSQ5733rFTxonFO6K8qWm4e1jo+qSj
-wL1YNOCb+9iRk/b2UOZW6lhsVTbcvu3Pc1/0pPnOvZX7XNmGTlc50eie+ogfuNFb
-6BXqdatL23t/r7rsf9qavdA1X9K7Xp8btzNvWltlzkgIbzn/49cV9IZvNsbGdX21
-cXRncrB/6ee02cis40urxc3jpXj+yc972n7yjZ/Uj0SMnd7l6daPnUo+pbycFF/V
-094asv39prylucmSxkWPLz3nw82UPFHXrDM4vQ33EvaWPhjM6dN3F5+4jRR9omd6
-b4euviXJmRB6+rWrhjUxB/WPFcDMF6cjzrijTMWddbqsNvmzX5bO1uQXhh3pS3CM
-NNTEeaH4aPq0LnohcU9S87prVyzXvSNFYfOC84Z09/D4YHH0HxfdacZyad7Vqolg
-dfmzSqR7i4s+MdoSLG8VHjhHmuYq775aMqo75DN6+n+LivG/812f88uQmbas4TWv
-d3vGbz0VX/hkeZT8PPZt/6aD6ZO4f9+2yMlngt+7wglvDg21bDGxzRnmgo4je5Tc
-Gg84UHxpF7ywO+xYzLWjY1FaV7U+JO+isq498d0fisKzYy+1aw/tKFzInL5/9uFb
-30+Fmzvv/Xr4CW9vqdO/w9kZDCiKuanYxL8B
-=B5HT
------END PGP MESSAGE-----
-
-And finally, I am proving ownership of this host by posting or
-appending to this document.
-
-View my publicly-auditable identity here: https://keybase.io/dmtucker
-
-==================================================================
-==================================================================
-https://keybase.io/dmtucker
---------------------------------------------------------------------
-
-I hereby claim:
-
-  * I am an admin of https://david.tucker.name
-  * I am dmtucker (https://keybase.io/dmtucker) on keybase.
-  * I have a public key with fingerprint A3E0 EF6C ECB3 3C34 2AA6  EC7C 5508 153A 6E7F C5FB
+  * I have a public key ASC5j9Llmx02bAVsdTBWxEPVhbAPadWsVbmhBmgQ-L5qlAo
 
 To do so, I am signing this object:
 
@@ -86,68 +14,39 @@ To do so, I am signing this object:
   "body": {
     "key": {
       "eldest_kid": "01017ae6c59bcba7592e0eb4ffe29c905a80a3d30717328853fc5eeff493e8e8d1cd0a",
-      "fingerprint": "a3e0ef6cecb33c342aa6ec7c5508153a6e7fc5fb",
       "host": "keybase.io",
-      "key_id": "5508153a6e7fc5fb",
-      "kid": "01017ae6c59bcba7592e0eb4ffe29c905a80a3d30717328853fc5eeff493e8e8d1cd0a",
+      "kid": "0120b98fd2e59b1d366c056c753056c443d585b00f69d5ac55b9a1066810f8be6a940a",
       "uid": "c4d88e92db6fada2551c34fa6a359719",
       "username": "dmtucker"
     },
     "merkle_root": {
-      "ctime": 1530490764,
-      "hash_meta": "5f0fbb0cb287d89e6b3e5c639721e7469a134af6d4bd2e4a7454fe663087fc08",
-      "seqno": 3184307
-    },
-    "revoke": {
-      "sig_ids": [
-        "b9830c5f60f729855632e44d62805788d26de53854ca8bc210358548a1409d530f"
-      ]
+      "ctime": 1787949827,
+      "hash": "3daa059d71fc97fe3327f23ae7c791720f8b34f93fb22cb25c6df746f0c257304cfc3a5924bdebbab3edbbfc32ee8ddcc270eacd137d82d8a21ea4c5d481151a",
+      "hash_meta": "0ddd379be4e3c24be7a6c7aeab27ce1e71983132958ade7e07aa5f0ca9698f19",
+      "seqno": 27748525
     },
     "service": {
-      "hostname": "david.tucker.name",
+      "entropy": "Kl/BLEXCGVc/nfIE7Ie/VNDc",
+      "hostname": "davidtucker.name",
       "protocol": "https:"
     },
     "type": "web_service_binding",
-    "version": 1
+    "version": 2
   },
-  "ctime": 1530490806,
-  "expire_in": 157680000,
-  "prev": "1451983345ad42ffc8b7f37960ebddea0a867ee19f57d2018185b7f8afd7867b",
-  "seqno": 40,
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.6.3"
+  },
+  "ctime": 1787949846,
+  "expire_in": 504576000,
+  "prev": "dddece134b6e172d62a62ea74903a59b9fb31ed297e52c2a432564efdf388794",
+  "seqno": 79,
   "tag": "signature"
 }
 
 which yields the signature:
 
------BEGIN PGP MESSAGE-----
-
-owGtU39MVVUc5yEl2JxGZJvDqVfLQHzde889957L3EpRl5oE/oAV0ePce8+F6+O9
-+7jvArIHscbI4ZgRwfilrlIUppZkCtkIIpkOMWkus6bDyAE2SkrRGkM6l3KtrT87
-/5x9v+fz/Xw/3885p2rurLBI147IJxP9pb2Trgu3lLAM2TwXYhRTK2ISQ4yXzGwk
-VyNB2+M1NCaRYTmWkzARVSgrqoIlKPOEJYqg64SXVZmFGLEYaICVOAnwCEGgq5AQ
-XRdkQBBBGqdqLGYSGN3wZxMrYBl+m9JiQFl0USWqAoAKBB5jkaiSCiGLOAhoIFEe
-XaGFOWbQqaDiFBwkbsOkORp4ZuT9B/5/1p0/Q6cKGkJE5jVF1LGGeQg5qlrHIgZQ
-ljjZAQaJ5cc+QtGaz85XvcRiShIYH7G8ucRjmabtmKvahgOhmllBZiVRoAPiYI7H
-R2zszKOzuqKwqsIjSUMyERVAoCoCWeI5IgmijDkgYF3UBEXjiYAlAQo6EUXAImoA
-i6iOIMnzm0wi4JBAp6MKLFJgeonTPGhkU9uCTGIGo8gIdBez1DOR1SVeRhCKgDIK
-msgjFkoIabyoEQgQFFSMFJXnWABpgDAnsLJG9etMZonTziow1Bl656YeOoALDM39
-lwvumVwCE7BM21TNXHqcY9uBYKJjj10UcPCFRPH8zeRRDL9GHwutKCBW0DD91C6K
-/LdziBUTGLIrYFjEYzgIKImIpcvpQwooJSdAjg4JBIg1gdd1FSmSDiRZpM9A0whm
-MRIlQjhZh5LGsxziEKQIhHVNoifKP1YKlNTG2ZSTGujHdr5FmJI5FeEgIswVGbZo
-wdKIgzdu546dXC3EHx4rfvjBHgl3flfYnKj5DzOhonnTwcLmhZlnClO55Oi8ypGJ
-64eaYp7Z684EEy0HByqrvobyKf3o236fva42otwq+eP+lnnvXLjhqTowf//lYiau
-pvPM83eVJamVVY2lViN76JvRyMEpT2NP6kAo8NW2sxtWLuJzd+Wsul086/XPGt7b
-r45V5Q8OHK56yT23dnWTGfvdxgVrRlPWtfWX+0a/9Veu9S3o/+nipttRduPgztFf
-zlkv1N9pa4uZHdo3vti/ONy17c3fpPSTFelcTaj0k97LrdVZ1Ze6mnvj67euOB7V
-zU2XDY+NbpkcWdsbbBGKarjNRlnH1eo6V7d36aetGZcuxp2XN145NT7eueeVpuTt
-y/W8KTFs8sO806vaL1ZMpB6Oi4g+crYjqych35M2OfFrKHa69kH66R+XHX/qWmaS
-q63/WGpMfkv5UGBT4fCxrRtWbil5rKcx69WkrhTz2fVDrg/2XRhIutc87+cn4h+/
-tWdR9Pjg3o/7ft/RWrd9d+QAvCk2lC5b3pfSsKb9yM0kkH1w8/2IdcbQG/U1qz9P
-I837zei+gUbJ5350hf7iD65rTMA9Pek6MfF9s6dmYV55RXLZjqkTyd6dI3m7AinL
-O9I+ghX99bPvprXfG+68Gv70nbfi9uUOHfiyy1X24LXepv7zu/136pbUAN/7c6tz
-hnq+2Pru0bvHz1ota1dYL09dX//cyJWMZbPlxdMjsXuq/wQ=
-=MFV/
------END PGP MESSAGE-----
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEguY/S5ZsdNmwFbHUwVsRD1YWwD2nVrFW5oQZoEPi+apQKp3BheWxvYWTESpcCT8Qg3d7OE0tuFy1ipi6nSQOlm5+zHtKX5SwqQyVk7984h5TEIDDY/Ug8qvHiLSj6HHdx96w3wMe0VWuGAUVx4PQWWTNaAgHCo3NpZ8RAzcSEi2QfmrvRK/uGFL8+LFabiLvhb8kf6YpeF428rn/iN8H6MpSxoBTnan6w8qYgCDHVCBhrNYbyyvhcnaepC6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIN2WU7UjwUiN50x2jqWAxCIUlQeMNgovu/nlpU0ZseIko3RhZ80CAqd2ZXJzaW9uAQ==
 
 And finally, I am proving ownership of this host by posting or
 appending to this document.
@@ -155,4 +54,3 @@ appending to this document.
 View my publicly-auditable identity here: https://keybase.io/dmtucker
 
 ==================================================================
-
