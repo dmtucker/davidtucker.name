@@ -1,6 +1,6 @@
 # www.robotstxt.org/
 
-Sitemap: https://david.tucker.name/sitemap.xml
+Sitemap: https://davidtucker.name/sitemap.xml
 
 # Allow crawling of all content
 User-agent: *

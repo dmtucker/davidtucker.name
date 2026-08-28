@@ -1,4 +1,4 @@
-# david.tucker.name
+# davidtucker.name
 
 The Personal Website of David Tucker
 
