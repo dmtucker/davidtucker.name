@@ -9,4 +9,4 @@ RUN gpg --verify index.html.asc index.html
 RUN html5validator --show-warnings --match index.html --root .
 
 FROM httpd:2.4
-COPY --from=test /var/www/* /usr/local/apache2/htdocs/
+COPY --from=test /var/www/ /usr/local/apache2/htdocs/
