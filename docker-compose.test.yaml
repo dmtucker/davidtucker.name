@@ -1,0 +1,10 @@
+services:
+  sut:
+    build: .
+    ports:
+    - "80:80"
+  tests:
+    depends_on:
+    - sut
+    image: ghcr.io/validator/validator
+    command: vnu http://sut/
