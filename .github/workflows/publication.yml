@@ -14,4 +14,4 @@ jobs:
     - uses: docker/build-push-action@v7
       with:
         push: true
-        tags: dmtucker/dmtucker.github.io:latest
+        tags: dmtucker/davidtucker.name:latest
