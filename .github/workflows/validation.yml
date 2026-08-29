@@ -7,3 +7,6 @@ jobs:
     - uses: docker/build-push-action@v7
       with:
         push: false
+    - uses: actions/upload-pages-artifact@v3
+      with:
+        path: "."
